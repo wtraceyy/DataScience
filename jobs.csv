@@ -1,0 +1,16 @@
+name,job_title,city,salary_kes,experience_yrs,employment_type,age,joined_date,salary_history_2022,had_missing_salary
+Aisha,Data Analyst,Nairobi,85000,2,Full-time,25,2022-03-15,70000.0,False
+Brian,Software Engineer,Mombasa,120000,4,Full-time,28,2020-07-01,100000.0,False
+Celestine,Data Scientist,Nairobi,150000,5,Contract,30,2019-11-20,105000.0,True
+David,DevOps Engineer,Kisumu,110000,3,Full-time,27,2021-05-10,95000.0,False
+Esther,Data Analyst,Nairobi,78000,1,Part-time,24,2023-01-08,105000.0,True
+Felix,ML Engineer,Nairobi,175000,6,Full-time,32,2018-09-03,150000.0,False
+Grace,Software Engineer,Mombasa,115000,4,Contract,29,2020-12-15,100000.0,False
+Hassan,Data Scientist,Nairobi,160000,7,Full-time,35,2017-04-22,140000.0,False
+Ivy,Data Analyst,Nakuru,72000,1,Part-time,23,2023-02-14,105000.0,True
+James,Software Engineer,Nairobi,130000,5,Full-time,31,2019-06-30,115000.0,False
+Kendi,ML Engineer,Kisumu,180000,7,Full-time,34,2017-08-11,160000.0,False
+Liban,DevOps Engineer,Nairobi,105000,3,Contract,26,2021-03-25,90000.0,False
+Mary,Data Scientist,Mombasa,145000,6,Full-time,33,2018-05-17,130000.0,False
+Noel,Data Analyst,Nairobi,80000,2,Full-time,25,2022-09-01,65000.0,False
+Olive,Software Engineer,Nairobi,125000,4,Contract,28,2020-11-10,110000.0,False
